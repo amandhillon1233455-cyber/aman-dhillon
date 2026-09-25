@@ -1,0 +1,6 @@
+{
+  "name": "Printing Dashboard",
+  "description": "Smart printing management platform powered by AI. Monitor printers, manage print jobs, analyze usage metrics, and resolve hardware issues with AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
